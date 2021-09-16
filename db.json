@@ -2,17 +2,17 @@
     "tareas":[
         {
             "nombreTarea": "pagar los impuestos",
-            "estado": "completa",
+            "categoria": "completa",
             "id": 1
         },
         {
             "nombreTarea": "hacer las compras",
-            "estado": "completa",
+            "categoria": "completa",
             "id": 2
         },
         {
             "nombreTarea": "lavar ropa",
-            "estado": "incompleta",
+            "categoria": "incompleta",
             "id": 3
         }
     ]
