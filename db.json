@@ -1,0 +1,19 @@
+{
+    "tareas":[
+        {
+            "nombreTarea": "pagar los impuestos",
+            "estado": "completa",
+            "id": 1
+        },
+        {
+            "nombreTarea": "hacer las compras",
+            "estado": "completa",
+            "id": 2
+        },
+        {
+            "nombreTarea": "lavar ropa",
+            "estado": "incompleta",
+            "id": 3
+        }
+    ]
+}
